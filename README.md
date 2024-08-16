@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tkcanfield
-- 👀 I’m interested in all kinds of things. Front End Coding is my latest favorite thing.
+- 👋 Hi, I’m Tristen
+- 👀 I’m interested in all kinds of things. Web development is the newest shiny thing to catch my eye.
 - 🌱 I’m currently learning CSS.
 - 📫 You can reach me by email at canfieldtristenk@gmail.com
 - 😄 Pronouns: she/they
